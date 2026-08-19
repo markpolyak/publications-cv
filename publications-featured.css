@@ -1,6 +1,8 @@
  
 /* start css.sty */
 .larm-1728{font-size:141%;}
+.latt-1200{font-family: monospace,monospace;}
+.lati-1200{font-style: italic;}
 p{margin-top:0;margin-bottom:0}
 p.indent{text-indent:0;}
 p + p{margin-top:1em;}
